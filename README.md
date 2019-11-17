@@ -1,2 +1,3 @@
 # BulmaJS
-Base Java Script functionality for Bulma free CSS framework based on Flexbox
+
+Add base JS functionality for Bulma CSS framework: modal closes, navbar-burger and header-background.
